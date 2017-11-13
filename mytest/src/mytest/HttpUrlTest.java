@@ -8,7 +8,8 @@ import java.net.URL;
 import java.net.URLConnection;
 
 public class HttpUrlTest {
-	//git 테스트 하려고 합니다..
+	//git 테스트 하려고 합니다.. 두번째 커밋 테스트 입니다.
+	
 	public static void main(String[] args) {
 		final int _EndOffset 		= 500000000;
 		final int DEFAULT_TIMEOUT 	= 30000;
